@@ -69,4 +69,4 @@ ProjectSettings/        Unity project configuration
 
 ## License
 
-No license file is currently defined in this repository. Add a `LICENSE` file before distributing or reusing this project outside personal/internal use.
+This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
